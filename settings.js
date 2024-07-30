@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242053943563"
+global.ownernomer = "242050259876"
 global.ownername = "David Cyril"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '242053943563'  //creator number
-global.ownername = 'David Cyril' //owner name
+global.ownernumber = '242050259876'  //creator number
+global.ownername = 'DOMA Death moon' //owner name
 global.botname = '🕷Death Moon-md🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +242053943563'
+global.author = 'David_Cyril\n\nContact: +242050259876'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -26,7 +26,7 @@ global.wm = "David Cyril Tech."
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
 
 //custom prefix
-global.prefa = ['🌕']
+global.prefa = ['🌙']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
