@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242050259876"
+global.ownernomer = "242066524690"
 global.ownername = "David Cyril"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '242050259876'  //creator number
+global.ownernumber = '242066524690'  //creator number
 global.ownername = 'DOMA Death moon' //owner name
 global.botname = '🕷Death Moon-md🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +242050259876'
+global.author = 'David_Cyril\n\nContact: +242066524690'
 
 //console view/theme
 global.themeemoji = '🪀'
