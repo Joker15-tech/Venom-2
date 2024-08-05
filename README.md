@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/Joker15-tech/Venom-2) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -42,8 +42,7 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Venom-2
-```
+git clone https://github.com/Joker15-tech/Venom-2
 ```
 cd Venom-2
 yarn install 
@@ -87,8 +86,7 @@ pkg install wget
 pkg install yarn
 ```
 ```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
-```
+git clone https://github.com/Joker15-tech/Venom-2
 ```
 cd Venom-2
 ```
@@ -116,7 +114,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/DeeCeeXxx/Venom-2.git
+> git clone https://github.com/Joker15-tech/Venom-2
 ```
 ```
 > cd Venom-2
